@@ -122,10 +122,10 @@
   width: 100vw;
   text-decoration: none;
   font-size: 20px;
-  border-radius: 0 5px 5px 0;
   transition: 0.3s;
   background-color: rgba(255, 255, 255, 0.03);
   box-shadow: 0px 2px 3px rgba(0,0,0,.25);
+  border-bottom: .5px solid rgba(255, 255, 255, 0.05);
 }
 
 .nav-container:hover {
